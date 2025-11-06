@@ -9,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Store it",
+  title: "ReKall",
   description: "Store it and remember it",
 };
 
